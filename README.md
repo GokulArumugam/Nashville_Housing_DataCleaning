@@ -5,3 +5,7 @@ To get a clear picture of what is going on in Nashville I have downloaded public
 and cleaned data for analysis purposes. 
 Note: I have used this data to practice data cleaning, I will not work on the data visualization part, 
 this is because as far as I am concerned this housing bubble is only temporary. 
+
+
+**Tools Used:**
+1. Microsoft SQL Server (For Data cleaning)
